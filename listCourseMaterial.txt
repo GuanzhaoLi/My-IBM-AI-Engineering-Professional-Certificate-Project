@@ -1,0 +1,14 @@
+
+Below are course materials obtained from coursera
+
+└── Machine\ Learning\ with\ Python
+    ├── Classification_models
+    │   ├── ML0101EN-Clas-Decision-Trees-drug-py-v1.ipynb
+    │   ├── ML0101EN-Clas-K-Nearest-neighbors-CustCat-py-v1.ipynb
+    │   ├── ML0101EN-Clas-Logistic-Reg-churn-py-v1.ipynb
+    │   ├── ML0101EN-Clas-SVM-cancer-py-v1.ipynb
+    │   ├── ML0101EN-Clus-Hierarchical-Cars-py-v1-module-4.ipynb
+    │   └── ML0101EN-Clus-K-Means-Customer-Seg-module-4.ipynb
+    └── Recommendation\ System
+        ├── ML0101EN-RecSys-Collaborative-Filtering-movies-py-v1-module-5.ipynb
+        └── ML0101EN-RecSys-Content-Based-movies-py-v1-module-5.ipynb
